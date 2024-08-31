@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopify App Template for Node
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
@@ -241,3 +242,6 @@ pnpm dev --tunnel-url https://randomly-generated-hostname.trycloudflare.com:3000
     - [`useTranslation` hook](https://react.i18next.com/latest/usetranslation-hook)
     - [`Trans` component usage with components array](https://react.i18next.com/latest/trans-component#alternative-usage-components-array)
   - [i18n-ally VS Code extension](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
+=======
+# shopify_node_latest_template
+>>>>>>> 8ce09761613fced5deba1757c023c52229586af4
